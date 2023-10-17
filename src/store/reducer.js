@@ -4,7 +4,7 @@ const initState = {
     todos: [],
     todoInput: ""
 }
-//aaabbbcccddd
+//test1 test222
 const reducer = (state, action) => {
     switch(action.type){
         case SET_TODO_INPUT:
